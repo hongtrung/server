@@ -1,0 +1,233 @@
+1993  clear
+ 1994  sudo apt update
+ 1995  sudo apt install snapd
+ 1996  sudo snap install discord
+ 1997  clear
+ 1998  linux OS
+ 1999  sudo apt install terminator
+ 2000  sudo apt install net-tools 
+ 2001  ifconfig
+ 2002  sudo apt install git
+ 2003  git --version
+ 2004  knote --version
+ 2005  sudo snap install knote
+ 2006  history
+ 2007  knotes --version
+ 2008  sudo apt install knotes 
+ 2009  clear
+ 2010  ls
+ 2011  sudo apt install knotes 
+ 2012  knotes --version
+ 2013  local 
+ 2014  clear
+ 2015  ls
+ 2016  touch test.txt
+ 2017  ls
+ 2018  rm -rf test.txt 
+ 2019  pwd
+ 2020  ls
+ 2021  cd 0_working_space/
+ 2022  cd ../
+ 2023  ls
+ 2024  mkdir Desktop
+ 2025  cd Downloads/
+ 2026  cd ..
+ 2027  cd 1_Android/0_FlashFw_V1.2.2/platforms/
+ 2028  cd 
+ 2029  cleawr
+ 2030  clear
+ 2031  cd Downloads/
+ 2032  cd 
+ 2033  cd Downloads/
+ 2034  pwd
+ 2035  ls
+ 2036  cd ../
+ 2037  clear
+ 2038  ls
+ 2039  mkdir test 
+ 2040  ls
+ 2041  cd test/
+ 2042  pwd
+ 2043  cd 
+ 2044  cd /home/foo/test
+ 2045  cd 
+ 2046  cd 1_Android/2_flash_tool_1.0.2/translations/
+ 2047  pwd
+ 2048  cd
+ 2049  cd test/
+ 2050  celar
+ 2051  clear
+ 2052  ls
+ 2053  mkdir test1
+ 2054  touch test.txt
+ 2055  ls -la
+ 2056  ls
+ 2057  ls -la
+ 2058  cat test
+ 2059  cat test.txt 
+ 2060  ls -la
+ 2061  echo "hello" > test.txt 
+ 2062  ls -la
+ 2063  ls
+ 2064  clear
+ 2065  ls
+ 2066  rm -rf test
+ 2067  ls
+ 2068  ls test.txt 
+ 2069  clear
+ 2070  touch test.txt
+ 2071  clear
+ 2072  ls
+ 2073  cat test1
+ 2074  cat test.txt 
+ 2075  rm -rf test.txt 
+ 2076  ls
+ 2077  touch test.txt
+ 2078  cat test
+ 2079  cat test.txt 
+ 2080  echo "hello" > test.txt 
+ 2081  cat test.txt 
+ 2082  echo "1234" > test.txt 
+ 2083  cat test.txt 
+ 2084  sudo apt install tree
+ 2085  tree
+ 2086  cd ../
+ 2087  cd 1_Android/
+ 2088  ls
+ 2089  cd A11-VF6/
+ 2090  ls
+ 2091  cd ../IMAGE/
+ 2092  clear
+ 2093  ls
+ 2094  tree
+ 2095  cd ../../
+ 2096  ls
+ 2097  cd test/
+ 2098  ls
+ 2099  tree
+ 2100  ls
+ 2101  mkdir test1/hello_test1
+ 2102  tree
+ 2103  touch test1/hello
+ 2104  tree
+ 2105  rm -rf test
+ 2106  ls
+ 2107  cd 
+ 2108  rm -rf test/
+ 2109  clera
+ 2110  ls
+ 2111  clear
+ 2112  mkdir Working_space
+ 2113  cd Working_space/
+ 2114  mkdir test
+ 2115  touch test.txt
+ 2116  ls
+ 2117  touch test2.txt
+ 2118  ls
+ 2119  mkdir test 1
+ 2120  mkdir test1
+ 2121  ls
+ 2122  rm -rf 1
+ 2123  ls
+ 2124  clear
+ 2125  ls
+ 2126  mv test2.txt test.txt test
+ 2127  ls
+ 2128  tree
+ 2129  ls
+ 2130  mv test/test.txt ./
+ 2131  ls
+ 2132  mv test.txt test
+ 2133  tree
+ 2134  mv test/test.txt ./test1
+ 2135  tree
+ 2136  cd test1/
+ 2137  ls
+ 2138  tree
+ 2139  mv test.txt ../test
+ 2140  tree
+ 2141  tree ../
+ 2142  cd 
+ 2143  cledar
+ 2144  clear
+ 2145  ls
+ 2146  mv Working_space/ 5_working
+ 2147  ls
+ 2148  cd 4_Viettel/
+ 2149  cd ../5_working/
+ 2150  clear
+ 2151  ls
+ 2152  clear
+ 2153  cd 
+ 2154  test
+ 2155  git --version
+ 2156  knotes --version
+ 2157  git --version
+ 2158  clear
+ 2159  sudo apt install git
+ 2160  clear
+ 2161  local > repo_local ~ repo_server < server
+ 2162  cd 5_working/
+ 2163  clear
+ 2164  ls
+ 2165  rm -rf *
+ 2166  ls
+ 2167  clear
+ 2168  git init
+ 2169  ls
+ 2170  ls -la
+ 2171  touch README.md
+ 2172  echo "Getting started project" > README.md 
+ 2173  cat README.md 
+ 2174  ls
+ 2175  git status
+ 2176  touch hello.c
+ 2177  git status
+ 2178  git add .
+ 2179  git status
+ 2180  git commit -m "commit 1"
+ 2181  git status
+ 2182  git push -u origin master
+ 2183  git remote add origin https://github.com/HieuHoangWork/project1.git
+ 2184  git branch -a
+ 2185  git push -u origin master
+ 2186  git status 
+ 2187  clear
+ 2188  l;s
+ 2189  ls
+ 2190  cd ../
+ 2191  rm -rf 5
+ 2192  rm -rf 5_working/
+ 2193  clear
+ 2194  ls
+ 2195  git clone https://github.com/HieuHoangWork/project1.git
+ 2196  ls
+ 2197  cd project1/
+ 2198  ls
+ 2199  git status -a
+ 2200  git status
+ 2201  echo "hello" > hello.c 
+ 2202  cat hello.c 
+ 2203  git status
+ 2204  echo "123" > README.md 
+ 2205  cat README.md 
+ 2206  git status
+ 2207  git reset --hard
+ 2208  git status
+ 2209  cat hello.c 
+ 2210  cat README.md 
+ 2211  echo "hello" > hello.c 
+ 2212  git status
+ 2213  echo "123" > README.md 
+ 2214  git status
+ 2215  git diff
+ 2216  git add hello.c 
+ 2217  git status
+ 2218  git commit -m "them noi dung hello"
+ 2219  git status
+ 2220  git push -u origin master
+ 2221  git status
+ 2222  git reset --hard
+ 2223  git log
+ 2224  git log -1
+ 2225  history
